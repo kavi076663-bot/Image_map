@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date:01\10\2025
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
 map
 html>
 <head>
@@ -257,14 +258,16 @@ pogolang
 </body>
 </html>
 
-
+```
 # OUTPUT
-![alt text](home.png)
 ![alt text](mapp.png)
-![alt text](pogoland.png)
-![alt text](museam.png)
+![alt text](home.png)
 ![alt text](hospital.png)
 ![alt text](lake.png)
+![alt text](museam.png)
+![alt text](pogoland.png)
+
+
 
 
 # RESULT
