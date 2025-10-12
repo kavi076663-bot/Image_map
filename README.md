@@ -25,7 +25,7 @@ Execute the programs and publish them.
 # CODE
 ```
 map
-html>
+<html>
 <head>
     <title>My City</title>
     <style>
