@@ -266,9 +266,5 @@ pogolang
 ![alt text](lake.png)
 ![alt text](museam.png)
 ![alt text](pogoland.png)
-
-
-
-
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
